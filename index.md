@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+---
+title: 上班摸鱼，爽就是了
+---
 
-You can use the [editor on GitHub](https://github.com/NEOS55555/happy007.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+软件地址[点击下载](http://150.158.92.110/sft/latest.exe)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 大家都是怎么使用的
 
-### Markdown
+### 【小说摸鱼】任务栏看小说，这是真的难看到。更何况还有，移入显示，移出消失的功能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ccf5d8376d5f4394a826d5846ab8e147~tplv-k3u1fbpfcp-watermark.image?)
 
-```markdown
-Syntax highlighted code block
+### 【动漫摸鱼】当你看的视频，快于背景融为一体的时候，还会被发现吗
 
-# Header 1
-## Header 2
-### Header 3
+![Image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49de8f1657994e69881d6ba3743f49af~tplv-k3u1fbpfcp-watermark.image?)
 
-- Bulleted
-- List
+### 【资源多种】自备多种资源路径，不用怕找不到
 
-1. Numbered
-2. List
+![Image](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0346a5795ebc419abdf5c79254ac02d5~tplv-k3u1fbpfcp-watermark.image?)
 
-**Bold** and _Italic_ and `Code` text
+### 【快速启动】自定义自动按钮，快速启动，使用方便
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NEOS55555/happy007.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/beb998ce2978414ca50171437f7ecbd5~tplv-k3u1fbpfcp-watermark.image?)
