@@ -7,7 +7,7 @@ title: 上班摸鱼，爽就是了
 ## 大家都是怎么使用的
 
 ### 【打游戏】上班打游戏？完全不慌好吧
-![Image](https://cdn.nlark.com/yuque/0/2022/gif/22434704/1641448485650-a22f20e5-e1c2-4842-a47d-91305c4095b6.gif)
+![Image](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/68728f75fc2846c4aaaff998b29fb256~tplv-k3u1fbpfcp-watermark.image?)
 
 ### 【小说摸鱼】任务栏看小说，这是真的难看到。更何况还有，移入显示，移出消失的功能
 
