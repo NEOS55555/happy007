@@ -2,7 +2,7 @@
 title: 上班摸鱼，资源大合集，支持下载
 ---
 
-软件地址[点击下载](http://150.158.92.110/comictv/latest.exe)!
+软件地址[点击下载](http://neos55555.gitee.io/moyu-home/)!
 
 ## 大家都是怎么使用的
 
