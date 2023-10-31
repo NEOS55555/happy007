@@ -2,7 +2,7 @@
 title: 上班摸鱼，资源大合集，支持下载
 ---
 
-软件地址[点击下载](http://neos55555.gitee.io/moyu-home/)!
+软件地址[点击下载]([http://neos55555.gitee.io/moyu-home/](https://wwzl.lanzouh.com/b02dht9ab))!密码neos
 
 ## 大家都是怎么使用的
 
